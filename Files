@@ -433,7 +433,6 @@
 │   │   └── 0001-cachyos-base-all.patch
 │   ├── misc
 │   │   ├── 0001-acpi-call.patch
-│   │   ├── 0001-Add-extra-version-CachyOS.patch
 │   │   ├── 0001-aufs-6.10-merge-v20240701.patch
 │   │   ├── 0001-BOLT-vmlinux.patch
 │   │   ├── 0001-Fix-6.10-NVIDIA.patch
@@ -768,4 +767,4 @@
 ├── Files
 └── README.md
 
-87 directories, 682 files
+87 directories, 681 files
